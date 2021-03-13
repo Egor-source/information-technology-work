@@ -60,7 +60,7 @@ let threeSOSM = new ThreeSOSM();
 threeSOSM.Start();
 ```
 
-Для отрисовки в конкретном canvas нужно создать экземпля ThreeSOSM, вызвать метод Create и передат ьв него canvas
+Для отрисовки в конкретном canvas нужно создать экземпля ThreeSOSM, вызвать метод Create и передать в него canvas
 
 
 ```
